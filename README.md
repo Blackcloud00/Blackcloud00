@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Olgun Karabulut</h1>
-<h3 align="center">A passionate Jr. developer from Trabzon</h3>
+<h3 align="center">A passionate UI developer</h3>
 
 <p align="left"> <a href="https://twitter.com/olgundev" target="blank"><img src="https://img.shields.io/twitter/follow/olgundev?logo=twitter&style=for-the-badge" alt="olgundev" /></a> </p>
 
-- 🌱 I’m currently learning **Patika.dev Enuygun Back-end Development Bootcamp**
+- 🌱 I’m currently working **UI Developer at Abanoz Media**
 
 - 📝 I regularly write articles on [https://medium.com/@olguntube](https://medium.com/@olguntube)
 
