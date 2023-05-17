@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Patika.dev Enuygun Back-end Development Bootcamp**
 
-- 👨‍💻 All of my projects are available at [https://olgunkarabulut.com/depo.php](https://olgunkarabulut.com/depo.php)
-
 - 📝 I regularly write articles on [https://medium.com/@olguntube](https://medium.com/@olguntube)
 
 - 💬 Ask me about **HTML5, CSS3, JavaScript, PHP**
